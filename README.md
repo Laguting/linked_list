@@ -6,7 +6,7 @@
 2. Choose the **download zip**, download it to your preferred folder. Make sure to choose the recent branch.
 3. Extract the folder from the zip
 4. Open your preferred IDE and open the folder.
-5. Proceed to the **linked_list** python file to run the program.
+5. Proceed to the **merged_linked_list** python file to run the program.
 6. click the run button
 
 *GitHub guide*
