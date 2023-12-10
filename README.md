@@ -1,4 +1,4 @@
-> 💻 Program merges two linked list and is arranged from lowest to highest.
+> 💻 Program that allows users to create two linked lists with the same or different data, merge the two linked lists, and arrange from lowest to highest.
 
 ## How to run 📝:
 ### In IDE 👩🏻‍💻
